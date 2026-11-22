@@ -1,2 +1,3 @@
 # someApps
 自己的一些小apps
+swipeflow目前是一个ai帮助下自制刷题软件，多轮的修改后目前功能较为完善
